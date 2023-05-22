@@ -74,9 +74,12 @@ En primer lugar, la hibridación se encuentra en la captura de imágenes en 360 
 
 Estas imágenes se unen luego en un formato esférico que permite al usuario explorar el espacio de manera panorámica. Aquí vemos la fusión de la fotografía y la tecnología para crear una representación visual completa y envolvente.
 
+![Captura de pantalla de la visita virtual a la exposición: “La azucarera de San Isidro . Una historia con futuro”. Que se puede visitar en la web de patrimonio de la Universidad de Granada.](https://github.com/ealmisas2023/PEC3_Manovich_Reloaded/blob/main/visitasVirtual.jpg)
+
 Además, la hibridación se refleja en la interfaz de usuario de las visitas virtuales. Es un reto para los diseñadores crear una experiencia que sea fácil de usar, intuitiva y atrayente, permitiendo a los usuarios navegar por el espacio virtual de manera fluida. Esto implica combinar elementos de diseño gráfico, interactividad y usabilidad para lograr una experiencia atractiva.
 
 **Un punto importante en la hibridación en las visitas culturales virtuales es la integración de elementos interactivos**, ya que además de poder recorrer en 360º un espacio, se permite al usuario interactuar con el entorno. Una de las formas más recurrentes es añadir diferentes puntos interactivos en la visita y mediante un click acceder a información, imágenes o vídeos que complementan la visita.
+
 
 En el ejemplo de una visita virtual por un museo, lo normal es poder acercarte a una obra y mediante los puntos de interacción, poder hacer zoom a la obra , girarla en 360º si se tratase de una escultura, vamos que algunas veces con las visitas virtuales tienes una visión completa de las obras incluso mejor que si estuvieras en el propio museo.
 
