@@ -55,6 +55,11 @@ Algunos ejemplos que se pueden ver en las retransmisiones de los partidos de la 
 
 Mi ejemplo favorito es el porcentaje de probabilidad de hacer gol dependiendo de la posición donde dispara, si está marcado por varios jugadores, el ángulo de tiro… la verdad es que es alucinante porque la mayoría de las veces el porcentaje es bajísimo y aún así hacen unos golazos. Me parece un dato muy interesante y que la gente debe conocer, para así saber que no es tan fácil marcar los goles como parece.
 
+![](https://github.com/ealmisas2023/PEC3_Manovich_Reloaded/blob/main/BeyondStats.jpeg)
+
+> Captura de pantalla de una retrasmisión de un partido de La Liga en la que muestra la estadística de "Probabilidad de gol" de Beyond Stats
+
+
  Bajo mi punto de vista estaría bien que pusieran más estadísticas durante los partidos de la que ofrecen hasta ahora, igual lo van haciendo poco a poco para que los espectadores se vayan acostumbrando a este tipo de visionado y no les parezca tan invasivo.
   
 Lo que está claro que **Beyond Stats ha cambiado la forma de interpretar las estadísticas, haciéndolas divertidas, amenas e interactivas**.
@@ -75,6 +80,7 @@ En primer lugar, la hibridación se encuentra en la captura de imágenes en 360 
 Estas imágenes se unen luego en un formato esférico que permite al usuario explorar el espacio de manera panorámica. Aquí vemos la fusión de la fotografía y la tecnología para crear una representación visual completa y envolvente.
 
 ![Captura de pantalla de la visita virtual a la exposición: “La azucarera de San Isidro . Una historia con futuro”. Que se puede visitar en la web de patrimonio de la Universidad de Granada.](https://github.com/ealmisas2023/PEC3_Manovich_Reloaded/blob/main/visitasVirtual.jpg)
+> Captura de pantalla de la visita virtual a la exposición: “La azucarera de San Isidro . Una historia con futuro”. Que se puede visitar en la web de patrimonio de la Universidad de Granada.
 
 Además, la hibridación se refleja en la interfaz de usuario de las visitas virtuales. Es un reto para los diseñadores crear una experiencia que sea fácil de usar, intuitiva y atrayente, permitiendo a los usuarios navegar por el espacio virtual de manera fluida. Esto implica combinar elementos de diseño gráfico, interactividad y usabilidad para lograr una experiencia atractiva.
 
