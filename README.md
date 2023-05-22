@@ -16,7 +16,7 @@ En este ensayo voy hablar sobre la hibridación según los ojos de Manovich. A p
 
 Hay que aclarar la diferencia que hay entre lo que conocemos por multimedia e hibridación, que puede dar confusión normalmente. Un elemento multimedia tiene la característica de que en él conviven diferentes medios que técnicamente no están relacionados entre sí, aunque su información sí lo esté. Para que quede más claro, voy a poner un ejemplo: **una web**. Cualquier web contiene textos, vídeos e imágenes pero cada uno de estos medios tienen propiedades y técnicas diferentes.
 
-En la hibridación, en cambio, se da que los distintos medios que crean el nuevo tienen una relación unos con otros y comparten las técnicas de software y los datos, generando así una experiencia nueva al usuario, comparada con la que ofrecen los medios originales de forma independiente.*(Adell, 2014).*
+En la hibridación, en cambio, se da que los distintos medios que crean el nuevo, tienen una relación unos con otros y comparten las técnicas de software y los datos, generando así una experiencia nueva al usuario, comparada con la que ofrecen los medios originales de forma independiente.*(Adell, 2014).*
 
 Para que quede más claro el concepto de hibridación, se van a analizar dos casos que encontramos actualmente:
 
@@ -43,15 +43,15 @@ El proyecto **Beyond Stats** es un claro ejemplo de esta hibridación, ya que co
 Beyond Stats combina los datos estadísticos como materia prima para generar visualizaciones artísticas y experiencias inmersivas en el visionado de partidos de fútbol. En este proyecto la hibridación se manifiesta a través de la combinación de elementos como la visualización de datos, la programación creativa y la interactividad.
   
 
-De esta forma, ahora cuando vemos un partido de fútbol podemos obtener una información detallada de forma visual respecto a estadísticas del partido directamente en tiempo real y sobre el partido.
+De esta forma, ahora cuando vemos un partido de fútbol podemos obtener una información detallada de forma visual respecto a estadísticas del partido directamente en tiempo real.
  
 Manovich destaca que la hibridación en la cultura digital no significa la desaparición de los medios tradicionales, sino su transformación y adaptación a las nuevas posibilidades tecnológicas *(Manovich, 2013).*
 
 En Beyond Stats, esta idea se hace evidente a través de la forma en que los datos estadísticos se convierten en una plataforma para la creatividad y la expresión artística. La hibridación permite que los datos se conviertan en un medio de comunicación, desafiando así la concepción tradicional de la estadística como algo frío y abstracto.
 
-De esta forma ya no hay que dividir el visionado de un partido y posteriormente ver las estadísticas aparte, sino que se fusionan ambas cosas en una sola retransmisión interactiva, siendo esta fusión de medios la principal característica de la hibridación.
+De esta forma ya no hay que dividir el visionado de un partido y posteriormente ver las estadísticas aparte, sino que se fusionan ambas en una sola retransmisión interactiva, siendo esta fusión de medios la principal característica de la hibridación.
 
-Algunos ejemplos que se pueden ver en las retransmisiones de los partidos de la liga española sobre estas estadísticas sobre la dirección al sacar un córner, donde se muestran porcentajes en forma de flechas de colores o el porcentaje de ataques por cada lado del campo que hace el equipo y muchísimas más estadísticas, y funciones que hacen que sea mucho más interactivo un partido de fútbol.
+Algunos ejemplos que se pueden ver en las retransmisiones de los partidos de la liga española sobre estas estadísticas son, la dirección al sacar un córner, donde se muestran porcentajes en forma de flechas de colores o el porcentaje de ataques por cada lado del campo que hace el equipo y muchísimas más estadística, y funciones que hacen que sea mucho más interactivo un partido de fútbol.
 
 Mi ejemplo favorito es el porcentaje de probabilidad de hacer gol dependiendo de la posición donde dispara, si está marcado por varios jugadores, el ángulo de tiro… la verdad es que es alucinante porque la mayoría de las veces el porcentaje es bajísimo y aún así hacen unos golazos. Me parece un dato muy interesante y que la gente debe conocer, para así saber que no es tan fácil marcar los goles como parece.
 
@@ -66,9 +66,8 @@ Lo que está claro que **Beyond Stats ha cambiado la forma de interpretar las es
 
 ## Caso 2: Visitas Virtuales
 
-Otro ejemplo más sobre la hibridación según Manovich son las visitas virtuales en 360º. Uno de los avances más emocionantes en las últimas décadas ( al menos para mí) ha sido el desarrollo de las visitas virtuales en 360 grados, una herramienta que nos permite explorar lugares y espacios del mundo de una manera inmersiva desde la comodidad de nuestra propia casa.
+Otro ejemplo más sobre la hibridación según Manovich son las visitas virtuales en 360º. Uno de los avances más emocionantes en las últimas décadas (al menos para mí) ha sido el desarrollo de las visitas virtuales en 360 grados, una herramienta que nos permite explorar lugares y espacios del mundo de una manera inmersiva desde la comodidad de nuestra propia casa.
 
-  
 
 Las visitas virtuales en 360 grados ofrecen una experiencia visual y espacial única. A través de fotografías o videos capturados en 360 grados, los usuarios pueden explorar entornos como museos, ciudades históricas, o paisajes naturales. Esta inmersión virtual brinda la sensación de estar realmente presente en el lugar, permitiendo una conexión más profunda con el entorno y una comprensión más rica de la experiencia.
 
@@ -87,7 +86,7 @@ Además, la hibridación se refleja en la interfaz de usuario de las visitas vir
 **Un punto importante en la hibridación en las visitas culturales virtuales es la integración de elementos interactivos**, ya que además de poder recorrer en 360º un espacio, se permite al usuario interactuar con el entorno. Una de las formas más recurrentes es añadir diferentes puntos interactivos en la visita y mediante un click acceder a información, imágenes o vídeos que complementan la visita.
 
 
-En el ejemplo de una visita virtual por un museo, lo normal es poder acercarte a una obra y mediante los puntos de interacción, poder hacer zoom a la obra , girarla en 360º si se tratase de una escultura, vamos que algunas veces con las visitas virtuales tienes una visión completa de las obras incluso mejor que si estuvieras en el propio museo.
+En el ejemplo de una visita virtual por un museo, lo normal es poder acercarte a una obra y mediante los puntos de interacción, poder hacer zoom a la obra o girarla en 360º si se tratase de una escultura, vamos que algunas veces con las visitas virtuales tienes una visión de las obras incluso mejor que si estuvieras en el propio museo.
 
 Esta interactividad añade una capa adicional de participación del usuario, y combina elementos del cine, los videojuegos y las interfaces digitales.
 
