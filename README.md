@@ -4,7 +4,7 @@
 
 **Asignatura**: Cultura Digital
 
-**Grado**: Técncias de Interacción digital y multimedia
+**Grado**: Técnicas de Interacción digital y multimedia
 
 **Fecha**: 2022/223
 
