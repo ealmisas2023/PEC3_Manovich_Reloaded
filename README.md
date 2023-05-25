@@ -14,9 +14,9 @@
 
 En este ensayo voy hablar sobre la hibridación según los ojos de Manovich. A partir de los años 90 se produce una evolución en los nuevos medios tal como hasta entonces eran conocidos, así como en las técnicas utilizadas para crearlos, modificarlos y acceder a ellos. Los medios comienzan a adquirir nuevas propiedades y fusionarse entre sí, motivado por las nuevas y distintas necesidades de los usuarios, dando lugar a nuevos medios híbridos. *(Manovich, 2013)*
 
-Hay que aclarar la diferencia que hay entre lo que conocemos por multimedia e hibridación, que puede dar confusión normalmente. Un elemento multimedia tiene la característica de que en él conviven diferentes medios que técnicamente no están relacionados entre sí, aunque su información sí lo esté. Para que quede más claro, voy a poner un ejemplo: **una web**. Cualquier web contiene textos, vídeos e imágenes pero cada uno de estos medios tienen propiedades y técnicas diferentes.
+Hay que aclarar la diferencia que hay entre lo que conocemos por multimedia e hibridación, que puede dar a confusión normalmente. Un elemento multimedia tiene la característica de que en él conviven diferentes medios que técnicamente no están relacionados entre sí, aunque su información sí lo esté. Para que quede más claro, voy a poner un ejemplo: **una web**. Cualquier web contiene textos, vídeos e imágenes pero cada uno de estos medios tienen propiedades y técnicas diferentes.
 
-En la hibridación, en cambio, se da que los distintos medios que crean el nuevo, tienen una relación unos con otros y comparten las técnicas de software y los datos, generando así una experiencia nueva al usuario, comparada con la que ofrecen los medios originales de forma independiente.*(Adell, 2014).*
+En la hibridación, en cambio, se da que los distintos medios que crean el nuevo medio tienen una relación unos con otros y comparten las técnicas de software y los datos, generando así una experiencia nueva al usuario, comparada con la que ofrecen los medios originales de forma independiente.*(Adell, 2014).*
 
 Para que quede más claro el concepto de hibridación, se van a analizar dos casos que encontramos actualmente:
 
