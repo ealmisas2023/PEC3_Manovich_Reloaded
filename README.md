@@ -57,7 +57,7 @@ Mi ejemplo favorito es el porcentaje de probabilidad de hacer gol dependiendo de
 
 ![](https://github.com/ealmisas2023/PEC3_Manovich_Reloaded/blob/main/BeyondStats.jpeg)
 
-> Captura de pantalla de una retrasmisión de un partido de La Liga en la que muestra la estadística de "Probabilidad de gol" de Beyond Stats
+> Captura de pantalla de una retrasmisión de un partido de La Liga en la que muestra la estadística de "Probabilidad de gol" de Beyond Stats ([La Liga](https://www.laliga.com/beyondstats))
 
 
  Bajo mi punto de vista estaría bien que pusieran más estadísticas durante los partidos de la que ofrecen hasta ahora, igual lo van haciendo poco a poco para que los espectadores se vayan acostumbrando a este tipo de visionado y no les parezca tan invasivo.
@@ -79,7 +79,7 @@ En primer lugar, la hibridación se encuentra en la captura de imágenes en 360 
 Estas imágenes se unen luego en un formato esférico que permite al usuario explorar el espacio de manera panorámica. Aquí vemos la fusión de la fotografía y la tecnología para crear una representación visual completa y envolvente.
 
 ![Captura de pantalla de la visita virtual a la exposición: “La azucarera de San Isidro . Una historia con futuro”. Que se puede visitar en la web de patrimonio de la Universidad de Granada.](https://github.com/ealmisas2023/PEC3_Manovich_Reloaded/blob/main/visitasVirtual.jpg)
-> Captura de pantalla de la visita virtual a la exposición: “La azucarera de San Isidro . Una historia con futuro”. Que se puede visitar en la web de patrimonio de la Universidad de Granada.
+> Captura de pantalla de la visita virtual a la exposición: “La azucarera de San Isidro . Una historia con futuro”. Que se puede visitar en la web de patrimonio de la Universidad de Granada. ([Patrimonio Universidad de Granada](https://patrimonio.ugr.es/wp-content/uploads/azucarera/))
 
 Además, la hibridación se refleja en la interfaz de usuario de las visitas virtuales. Es un reto para los diseñadores crear una experiencia que sea fácil de usar, intuitiva y atrayente, permitiendo a los usuarios navegar por el espacio virtual de manera fluida. Esto implica combinar elementos de diseño gráfico, interactividad y usabilidad para lograr una experiencia atractiva.
 
